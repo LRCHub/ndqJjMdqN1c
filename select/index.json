@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "escape",
+  "base_artist": "04 Limited Sazabys",
+  "createdAt": "2026-04-03T06:38:46.778149Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Some Will Seek Forgiveness, Others Escape",
+      "artist": "Underoath",
+      "has_synced": false,
+      "path": "select/01_Some_Will_Seek_Forgiveness,_Others_Escape_Underoath.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "THE GREAT ESCAPE",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/02_THE_GREAT_ESCAPE_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Great Escape (Brian Lee Remix)",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/03_The_Great_Escape_(Brian_Lee_Remix)_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "THE Great Escape (Brian Lee Remix)",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/04_THE_Great_Escape_(Brian_Lee_Remix)_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Escape",
+      "artist": "Kay Cee",
+      "has_synced": false,
+      "path": "select/05_Escape_Kay_Cee.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "No Escape",
+      "artist": "Lil Tjay",
+      "has_synced": true,
+      "path": "select/06_No_Escape_Lil_Tjay.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Great Escape",
+      "artist": "Moby",
+      "has_synced": true,
+      "path": "select/07_Great_Escape_Moby.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Great Escape",
+      "artist": "Moby",
+      "has_synced": true,
+      "path": "select/08_Great_Escape_Moby.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Czar: Usurper/Escape/Martyr/Spiral",
+      "artist": "Mastodon",
+      "has_synced": true,
+      "path": "select/09_The_Czar__Usurper_Escape_Martyr_Spiral_Mastodon.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Great Escape - Reprise Version / Commentary",
+      "artist": "Moby",
+      "has_synced": false,
+      "path": "select/10_The_Great_Escape_-_Reprise_Version___Commentary_Moby.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Escape",
+      "artist": "Netsky feat. Darrison",
+      "has_synced": true,
+      "path": "select/11_Escape_Netsky_feat._Darrison.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Escape (feat. Darrison)",
+      "artist": "Netsky",
+      "has_synced": true,
+      "path": "select/12_Escape_(feat._Darrison)_Netsky.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Escape Myself",
+      "artist": "Nouvelle Vague",
+      "has_synced": true,
+      "path": "select/13_Escape_Myself_Nouvelle_Vague.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Erroneous Escape Into Eric Eckles",
+      "artist": "of Montreal",
+      "has_synced": true,
+      "path": "select/14_Erroneous_Escape_Into_Eric_Eckles_of_Montreal.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Erroneous Escape Into Erik Eckles",
+      "artist": "Of Montreal",
+      "has_synced": true,
+      "path": "select/15_Erroneous_Escape_Into_Erik_Eckles_Of_Montreal.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Escape",
+      "artist": "Ouri",
+      "has_synced": false,
+      "path": "select/16_Escape_Ouri.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "escape",
+      "artist": "04 Limited Sazabys",
+      "has_synced": false,
+      "path": "select/pl_01_escape_04_Limited_Sazabys.txt"
+    }
+  ]
+}
